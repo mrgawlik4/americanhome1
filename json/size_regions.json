@@ -1,0 +1,380 @@
+﻿{
+    "Sheet1": [
+        {
+            "yearSize": "1973",
+            "usSize": 1525,
+            "neSize": 1450,
+            "mwSize": 1445,
+            "soSize": 1555,
+            "weSize": 1575
+        },
+        {
+            "yearSize": "1974",
+            "usSize": 1560,
+            "neSize": 1465,
+            "mwSize": 1490,
+            "soSize": 1640,
+            "weSize": 1540
+        },
+        {
+            "yearSize": "1975",
+            "usSize": 1535,
+            "neSize": 1405,
+            "mwSize": 1460,
+            "soSize": 1605,
+            "weSize": 1510
+        },
+        {
+            "yearSize": "1976",
+            "usSize": 1590,
+            "neSize": 1505,
+            "mwSize": 1495,
+            "soSize": 1660,
+            "weSize": 1565
+        },
+        {
+            "yearSize": "1977",
+            "usSize": 1610,
+            "neSize": 1540,
+            "mwSize": 1540,
+            "soSize": 1660,
+            "weSize": 1615
+        },
+        {
+            "yearSize": "1978",
+            "usSize": 1655,
+            "neSize": 1640,
+            "mwSize": 1615,
+            "soSize": 1685,
+            "weSize": 1630
+        },
+        {
+            "yearSize": "1979",
+            "usSize": 1645,
+            "neSize": 1690,
+            "mwSize": 1605,
+            "soSize": 1675,
+            "weSize": 1625
+        },
+        {
+            "yearSize": "1980",
+            "usSize": 1595,
+            "neSize": 1660,
+            "mwSize": 1520,
+            "soSize": 1615,
+            "weSize": 1570
+        },
+        {
+            "yearSize": "1981",
+            "usSize": 1550,
+            "neSize": 1655,
+            "mwSize": 1480,
+            "soSize": 1540,
+            "weSize": 1580
+        },
+        {
+            "yearSize": "1982",
+            "usSize": 1520,
+            "neSize": 1605,
+            "mwSize": 1405,
+            "soSize": 1500,
+            "weSize": 1595
+        },
+        {
+            "yearSize": "1983",
+            "usSize": 1565,
+            "neSize": 1650,
+            "mwSize": 1515,
+            "soSize": 1565,
+            "weSize": 1545
+        },
+        {
+            "yearSize": "1984",
+            "usSize": 1605,
+            "neSize": 1665,
+            "mwSize": 1600,
+            "soSize": 1590,
+            "weSize": 1610
+        },
+        {
+            "yearSize": "1985",
+            "usSize": 1605,
+            "neSize": 1655,
+            "mwSize": 1625,
+            "soSize": 1590,
+            "weSize": 1595
+        },
+        {
+            "yearSize": "1986",
+            "usSize": 1660,
+            "neSize": 1695,
+            "mwSize": 1685,
+            "soSize": 1655,
+            "weSize": 1635
+        },
+        {
+            "yearSize": "1987",
+            "usSize": 1755,
+            "neSize": 1840,
+            "mwSize": 1740,
+            "soSize": 1755,
+            "weSize": 1730
+        },
+        {
+            "yearSize": "1988",
+            "usSize": 1810,
+            "neSize": 1810,
+            "mwSize": 1840,
+            "soSize": 1790,
+            "weSize": 1845
+        },
+        {
+            "yearSize": "1989",
+            "usSize": 1850,
+            "neSize": 1870,
+            "mwSize": 1800,
+            "soSize": 1815,
+            "weSize": 1910
+        },
+        {
+            "yearSize": "1990",
+            "usSize": 1905,
+            "neSize": 1955,
+            "mwSize": 1850,
+            "soSize": 1855,
+            "weSize": 1985
+        },
+        {
+            "yearSize": "1991",
+            "usSize": 1890,
+            "neSize": 1950,
+            "mwSize": 1800,
+            "soSize": 1870,
+            "weSize": 1980
+        },
+        {
+            "yearSize": "1992",
+            "usSize": 1920,
+            "neSize": 2000,
+            "mwSize": 1870,
+            "soSize": 1945,
+            "weSize": 1890
+        },
+        {
+            "yearSize": "1993",
+            "usSize": 1945,
+            "neSize": 2050,
+            "mwSize": 1855,
+            "soSize": 2000,
+            "weSize": 1845
+        },
+        {
+            "yearSize": "1994",
+            "usSize": 1940,
+            "neSize": 2035,
+            "mwSize": 1850,
+            "soSize": 2000,
+            "weSize": 1835
+        },
+        {
+            "yearSize": "1995",
+            "usSize": 1920,
+            "neSize": 2095,
+            "mwSize": 1850,
+            "soSize": 1945,
+            "weSize": 1835
+        },
+        {
+            "yearSize": "1996",
+            "usSize": 1950,
+            "neSize": 2100,
+            "mwSize": 1900,
+            "soSize": 1995,
+            "weSize": 1890
+        },
+        {
+            "yearSize": "1997",
+            "usSize": 1975,
+            "neSize": 2130,
+            "mwSize": 1900,
+            "soSize": 2000,
+            "weSize": 1930
+        },
+        {
+            "yearSize": "1998",
+            "usSize": 2000,
+            "neSize": 2100,
+            "mwSize": 1945,
+            "soSize": 2000,
+            "weSize": 1985
+        },
+        {
+            "yearSize": "1999",
+            "usSize": 2028,
+            "neSize": 2175,
+            "mwSize": 1937,
+            "soSize": 2044,
+            "weSize": 2001
+        },
+        {
+            "yearSize": "2000",
+            "usSize": 2057,
+            "neSize": 2266,
+            "mwSize": 1971,
+            "soSize": 2075,
+            "weSize": 2014
+        },
+        {
+            "yearSize": "2001",
+            "usSize": 2103,
+            "neSize": 2305,
+            "mwSize": 1965,
+            "soSize": 2128,
+            "weSize": 2080
+        },
+        {
+            "yearSize": "2002",
+            "usSize": 2114,
+            "neSize": 2330,
+            "mwSize": 1979,
+            "soSize": 2120,
+            "weSize": 2127
+        },
+        {
+            "yearSize": "2003",
+            "usSize": 2137,
+            "neSize": 2288,
+            "mwSize": 1998,
+            "soSize": 2142,
+            "weSize": 2166
+        },
+        {
+            "yearSize": "2004",
+            "usSize": 2140,
+            "neSize": 2361,
+            "mwSize": 1993,
+            "soSize": 2164,
+            "weSize": 2149
+        },
+        {
+            "yearSize": "2005",
+            "usSize": 2227,
+            "neSize": 2339,
+            "mwSize": 2054,
+            "soSize": 2259,
+            "weSize": 2236
+        },
+        {
+            "yearSize": "2006",
+            "usSize": 2248,
+            "neSize": 2395,
+            "mwSize": 2035,
+            "soSize": 2286,
+            "weSize": 2275
+        },
+        {
+            "yearSize": "2007",
+            "usSize": 2277,
+            "neSize": 2281,
+            "mwSize": 2064,
+            "soSize": 2325,
+            "weSize": 2286
+        },
+        {
+            "yearSize": "2008",
+            "usSize": 2215,
+            "neSize": 2312,
+            "mwSize": 2019,
+            "soSize": 2266,
+            "weSize": 2216
+        },
+        {
+            "yearSize": "2009",
+            "usSize": 2135,
+            "neSize": 2211,
+            "mwSize": 1931,
+            "soSize": 2198,
+            "weSize": 2140
+        },
+        {
+            "yearSize": "2010",
+            "usSize": 2169,
+            "neSize": 2336,
+            "mwSize": 2001,
+            "soSize": 2184,
+            "weSize": 2143
+        },
+        {
+            "yearSize": "2011",
+            "usSize": 2233,
+            "neSize": 2335,
+            "mwSize": 2015,
+            "soSize": 2303,
+            "weSize": 2199
+        },
+        {
+            "yearSize": "2012",
+            "usSize": 2306,
+            "neSize": 2302,
+            "mwSize": 2150,
+            "soSize": 2381,
+            "weSize": 2281
+        },
+        {
+            "yearSize": "2013",
+            "usSize": 2384,
+            "neSize": 2337,
+            "mwSize": 2177,
+            "soSize": 2469,
+            "weSize": 2360
+        },
+        {
+            "yearSize": "2014",
+            "usSize": 2453,
+            "neSize": 2370,
+            "mwSize": 2400,
+            "soSize": 2498,
+            "weSize": 2453
+        },
+        {
+            "yearSize": "2015",
+            "usSize": 2467,
+            "neSize": 2492,
+            "mwSize": 2320,
+            "soSize": 2517,
+            "weSize": 2435
+        },
+        {
+            "yearSize": "2016",
+            "usSize": 2422,
+            "neSize": 2469,
+            "mwSize": 2297,
+            "soSize": 2450,
+            "weSize": 2430
+        },
+        {
+            "yearSize": "2017",
+            "usSize": 2426,
+            "neSize": 2488,
+            "mwSize": 2254,
+            "soSize": 2480,
+            "weSize": 2398
+        },
+        {
+            "yearSize": "2018",
+            "usSize": 2386,
+            "neSize": 2488,
+            "mwSize": 2180,
+            "soSize": 2445,
+            "weSize": 2341
+        },
+        {
+            "yearSize": "2019",
+            "usSize": 2301,
+            "neSize": 2364,
+            "mwSize": 2160,
+            "soSize": 2335,
+            "weSize": 2279
+        }
+    ]
+}

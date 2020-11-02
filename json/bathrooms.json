@@ -1,0 +1,56 @@
+[
+        {
+            "bathYears": "1975-1979",
+            "oneBath": 30.68,
+            "twoBaths": 45.91,
+            "twoAndHalfBaths": 23.42
+        },
+        {
+            "bathYears": "1980-1984",
+            "oneBath": 27.91,
+            "twoBaths": 47.19,
+            "twoAndHalfBaths": 24.9
+        },
+        {
+            "bathYears": "1985-1989",
+            "oneBath": 17.90,
+            "twoBaths": 45.23,
+            "twoAndHalfBaths": 36.88
+        },
+        {
+            "bathYears": "1990-1994",
+            "oneBath": 12.40,
+            "twoBaths": 40.95,
+            "twoAndHalfBaths": 46.43
+        },
+        {
+            "bathYears": "1995-1999",
+            "oneBath": 8.80,
+            "twoBaths": 40.81,
+            "twoAndHalfBaths": 50.41
+        },
+        {
+            "bathYears": "2000-2004",
+            "oneBath": 5.71,
+            "twoBaths": 38.48,
+            "twoAndHalfBaths": 56.09
+        },
+        {
+            "bathYears": "2005-2009",
+            "oneBath": 5.32,
+            "twoBaths": 35.90,
+            "twoAndHalfBaths": 58.82
+        },
+        {
+            "bathYears": "2010-2014",
+            "oneBath": 6.08,
+            "twoBaths": 32.12,
+            "twoAndHalfBaths": 61.84
+        },
+        {
+            "bathYears": "2015-2019",
+            "oneBath": 3.64,
+            "twoBaths": 31.29,
+            "twoAndHalfBaths": 65.09
+        }
+    ]

@@ -1,0 +1,338 @@
+[
+        {
+            "priceYear": "1978",
+            "priceUS": 218406.36,
+            "priceNortheast": 227817.05,
+            "priceMidwest": 232130.28,
+            "priceSouth": 197232.31,
+            "priceWest": 240364.63
+        },
+        {
+            "priceYear": "1979",
+            "priceUS": 221498.97,
+            "priceNortheast": 230654.73,
+            "priceMidwest": 225020.42,
+            "priceSouth": 201778.87,
+            "priceWest": 245092.66
+        },
+        {
+            "priceYear": "1980",
+            "priceUS": 200430.12,
+            "priceNortheast": 215633.02,
+            "priceMidwest": 196706.96,
+            "priceSouth": 184916.95,
+            "priceWest": 224320.4
+        },
+        {
+            "priceYear": "1981",
+            "priceUS": 193781.82,
+            "priceNortheast": 213750.63,
+            "priceMidwest": 185344.3,
+            "priceSouth": 181125.53,
+            "priceWest": 218813.14
+        },
+        {
+            "priceYear": "1982",
+            "priceUS": 183596.17,
+            "priceNortheast": 207174.9,
+            "priceMidwest": 182536.45,
+            "priceSouth": 175118.42,
+            "priceWest": 198697.15
+        },
+        {
+            "priceYear": "1983",
+            "priceUS": 193282.85,
+            "priceNortheast": 210994.03,
+            "priceMidwest": 204063.57,
+            "priceSouth": 181988.77,
+            "priceWest": 205603.67
+        },
+        {
+            "priceYear": "1984",
+            "priceUS": 196602.45,
+            "priceNortheast": 218009.73,
+            "priceMidwest": 210135.79,
+            "priceSouth": 177163.66,
+            "priceWest": 214810.94
+        },
+        {
+            "priceYear": "1985",
+            "priceUS": 200296.33,
+            "priceNortheast": 245440.22,
+            "priceMidwest": 190792.35,
+            "priceSouth": 178199.58,
+            "priceWest": 220017.08
+        },
+        {
+            "priceYear": "1986",
+            "priceUS": 214602.59,
+            "priceNortheast": 291579.61,
+            "priceMidwest": 205971.83,
+            "priceSouth": 187077.48,
+            "priceWest": 223233.35
+        },
+        {
+            "priceYear": "1987",
+            "priceUS": 235177.43,
+            "priceNortheast": 315070.24,
+            "priceMidwest": 213797.66,
+            "priceSouth": 198044.15,
+            "priceWest": 249805.69
+        },
+        {
+            "priceYear": "1988",
+            "priceUS": 243122.68,
+            "priceNortheast": 322002.48,
+            "priceMidwest": 219566.79,
+            "priceSouth": 198820.32,
+            "priceWest": 273377.95
+        },
+        {
+            "priceYear": "1989",
+            "priceUS": 247410,
+            "priceNortheast": 329055.3,
+            "priceMidwest": 224318.4,
+            "priceSouth": 198752.7,
+            "priceWest": 286583.25
+        },
+        {
+            "priceYear": "1990",
+            "priceUS": 240399.73,
+            "priceNortheast": 311013.48,
+            "priceMidwest": 211058.84,
+            "priceSouth": 193649.9,
+            "priceWest": 288518.8
+        },
+        {
+            "priceYear": "1991",
+            "priceUS": 225248.46,
+            "priceNortheast": 292635.29,
+            "priceMidwest": 206477.76,
+            "priceSouth": 187707.05,
+            "priceWest": 264854.65
+        },
+        {
+            "priceYear": "1992",
+            "priceUS": 221399.33,
+            "priceNortheast": 307954.62,
+            "priceMidwest": 210648.25,
+            "priceSouth": 192243.86,
+            "priceWest": 237617.06
+        },
+        {
+            "priceYear": "1993",
+            "priceUS": 223810.45,
+            "priceNortheast": 287680.47,
+            "priceMidwest": 221156.57,
+            "priceSouth": 203464.05,
+            "priceWest": 238849.1
+        },
+        {
+            "priceYear": "1994",
+            "priceUS": 224260.53,
+            "priceNortheast": 291538.69,
+            "priceMidwest": 229263.26,
+            "priceSouth": 201661.97,
+            "priceWest": 242201.37
+        },
+        {
+            "priceYear": "1995",
+            "priceUS": 224622.52,
+            "priceNortheast": 301957.08,
+            "priceMidwest": 224790.27,
+            "priceSouth": 208853.65,
+            "priceWest": 236533.05
+        },
+        {
+            "priceYear": "1996",
+            "priceUS": 228119.69,
+            "priceNortheast": 303073.3,
+            "priceMidwest": 224860.84,
+            "priceSouth": 205633.61,
+            "priceWest": 250768.72
+        },
+        {
+            "priceYear": "1997",
+            "priceUS": 232560.26,
+            "priceNortheast": 302646.91,
+            "priceMidwest": 238772.49,
+            "priceSouth": 206437.05,
+            "priceWest": 254860.56
+        },
+        {
+            "priceYear": "1998",
+            "priceUS": 239188.3,
+            "priceNortheast": 313689.57,
+            "priceMidwest": 247030.54,
+            "priceSouth": 212995.22,
+            "priceWest": 256441.23
+        },
+        {
+            "priceYear": "1999",
+            "priceUS": 247063.49,
+            "priceNortheast": 323024,
+            "priceMidwest": 251667.16,
+            "priceSouth": 223891.7,
+            "priceWest": 266552.35
+        },
+        {
+            "priceYear": "2000",
+            "priceUS": 250906.11,
+            "priceNortheast": 337609.76,
+            "priceMidwest": 251945.37,
+            "priceSouth": 219728.43,
+            "priceWest": 291585.56
+        },
+        {
+            "priceYear": "2001",
+            "priceUS": 253057.1,
+            "priceNortheast": 355897.66,
+            "priceMidwest": 249301.69,
+            "priceSouth": 224458.18,
+            "priceWest": 308521.67
+        },
+        {
+            "priceYear": "2002",
+            "priceUS": 266599.52,
+            "priceNortheast": 375598.36,
+            "priceMidwest": 252956.9,
+            "priceSouth": 232208.75,
+            "priceWest": 338933.82
+        },
+        {
+            "priceYear": "2003",
+            "priceUS": 270940.84,
+            "priceNortheast": 367506.93,
+            "priceMidwest": 256073.83,
+            "priceSouth": 233564.9,
+            "priceWest": 362504.95
+        },
+        {
+            "priceYear": "2004",
+            "priceUS": 299101.1,
+            "priceNortheast": 427403.29,
+            "priceMidwest": 277446.72,
+            "priceSouth": 245100.49,
+            "priceWest": 383147.16
+        },
+        {
+            "priceYear": "2005",
+            "priceUS": 315349.57,
+            "priceNortheast": 450050.57,
+            "priceMidwest": 283932.43,
+            "priceSouth": 258275.09,
+            "priceWest": 435389.24
+        },
+        {
+            "priceYear": "2006",
+            "priceUS": 312596.48,
+            "priceNortheast": 438776.4,
+            "priceMidwest": 270747.86,
+            "priceSouth": 264026.72,
+            "priceWest": 428250.84
+        },
+        {
+            "priceYear": "2007",
+            "priceUS": 305665.86,
+            "priceNortheast": 394813.26,
+            "priceMidwest": 257208.14,
+            "priceSouth": 268428.63,
+            "priceWest": 408006.59
+        },
+        {
+            "priceYear": "2008",
+            "priceUS": 275602.24,
+            "priceNortheast": 408000.56,
+            "priceMidwest": 236179.6,
+            "priceSouth": 241879.26,
+            "priceWest": 350054.03
+        },
+        {
+            "priceYear": "2009",
+            "priceUS": 258234.58,
+            "priceNortheast": 360479.74,
+            "priceMidwest": 225463.69,
+            "priceSouth": 232137.04,
+            "priceWest": 314243
+        },
+        {
+            "priceYear": "2010",
+            "priceUS": 260046.61,
+            "priceNortheast": 386787.09,
+            "priceMidwest": 231790.87,
+            "priceSouth": 230735.68,
+            "priceWest": 304013.01
+        },
+        {
+            "priceYear": "2011",
+            "priceUS": 258226.77,
+            "priceNortheast": 366882.05,
+            "priceMidwest": 231062.95,
+            "priceSouth": 240269.1,
+            "priceWest": 290959.74
+        },
+        {
+            "priceYear": "2012",
+            "priceUS": 273034.56,
+            "priceNortheast": 419665.36,
+            "priceMidwest": 256777.2,
+            "priceSouth": 252768.54,
+            "priceWest": 300649.8
+        },
+        {
+            "priceYear": "2013",
+            "priceUS": 295102.39,
+            "priceNortheast": 407370.8,
+            "priceMidwest": 280177.17,
+            "priceSouth": 270629.41,
+            "priceWest": 340756.01
+        },
+        {
+            "priceYear": "2014",
+            "priceUS": 311558.21,
+            "priceNortheast": 429809.94,
+            "priceMidwest": 295168.7,
+            "priceSouth": 285100.06,
+            "priceWest": 366094.4
+        },
+        {
+            "priceYear": "2015",
+            "priceUS": 317337.11,
+            "priceNortheast": 477623.63,
+            "priceMidwest": 298460.84,
+            "priceSouth": 292851.89,
+            "priceWest": 375907.49
+        },
+        {
+            "priceYear": "2016",
+            "priceUS": 327870.54,
+            "priceNortheast": 456227.92,
+            "priceMidwest": 295168.7,
+            "priceSouth": 299749.09,
+            "priceWest": 391676.41
+        },
+        {
+            "priceYear": "2017",
+            "priceUS": 336989.13,
+            "priceNortheast": 511480.87,
+            "priceMidwest": 296625.53,
+            "priceSouth": 303717.84,
+            "priceWest": 406764.97
+        },
+        {
+            "priceYear": "2018",
+            "priceUS": 332314.29,
+            "priceNortheast": 493380.84,
+            "priceMidwest": 296171.04,
+            "priceSouth": 299938.08,
+            "priceWest": 418039.97
+        },
+        {
+            "priceYear": "2019",
+            "priceUS": 321500,
+            "priceNortheast": 482500,
+            "priceMidwest": 289200,
+            "priceSouth": 289000,
+            "priceWest": 408000
+        }
+    ]

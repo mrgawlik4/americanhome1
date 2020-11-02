@@ -1,0 +1,56 @@
+[
+        {
+            "bedYears": "1975-1979",
+            "twoBeds": 12.37,
+            "threeBeds": 64.86,
+            "fourBeds": 22.79
+        },
+        {
+            "bedYears": "1980-1984",
+            "twoBeds": 21.80,
+            "threeBeds": 59.49,
+            "fourBeds": 18.73
+        },
+        {
+            "bedYears": "1985-1989",
+            "twoBeds": 19.63,
+            "threeBeds": 57.50,
+            "fourBeds": 22.85
+        },
+        {
+            "bedYears": "1990-1994",
+            "twoBeds": 13.05,
+            "threeBeds": 57.91,
+            "fourBeds": 29.06
+        },
+        {
+            "bedYears": "1995-1999",
+            "twoBeds": 12.47,
+            "threeBeds": 55.67,
+            "fourBeds": 31.84
+        },
+        {
+            "bedYears": "2000-2004",
+            "twoBeds": 11.53,
+            "threeBeds": 51.89,
+            "fourBeds": 36.55
+        },
+        {
+            "bedYears": "2005-2009",
+            "twoBeds": 12.09,
+            "threeBeds": 49.97,
+            "fourBeds": 37.99
+        },
+        {
+            "bedYears": "2010-2014",
+            "twoBeds": 11.78,
+            "threeBeds": 46.85,
+            "fourBeds": 41.30
+        },
+        {
+            "bedYears": "2015-2019",
+            "twoBeds": 10.24,
+            "threeBeds": 44.70,
+            "fourBeds": 45.03
+        }
+    ]

@@ -1,0 +1,198 @@
+.article {
+  margin: 2% 33%;
+}
+.headline {
+margin-bottom: 6%;
+margin-top: 4%;
+text-align: center;
+}
+
+h1 {
+  font-family: "Vollkorn", serif;
+  font-weight: 700;
+  font-size: 3em;
+  margin-bottom: 2%;
+}
+h3 {
+  font-family: "Vollkorn", serif;
+  font-size: 1.5em;
+  margin-bottom: 6%;
+  /* margin-top: -4%; */
+}
+
+h5 {
+  font-family: "Vollkorn", serif;
+  font-size: 1.1em;
+  /* color: #757575; */
+  /* margin-top: -4%; */
+}
+
+
+.main-picture {
+  overflow: hidden;
+  width: 100%;
+  margin-bottom: 6%;
+}
+
+.body-text {
+}
+
+p {
+  font-family: "Vollkorn", serif;
+  font-size: 1.2em;
+  line-height: 1.8em;
+  margin-bottom: 5%;
+}
+
+a {
+  color: #AA1111;
+}
+
+a:hover {
+  color: #FF5733;
+  text-decoration: none;
+}
+
+#middle-paragraph {
+  margin-top: 4%;
+
+}
+
+#bed-chart {
+  margin-bottom: 4%;
+
+}
+
+
+h2 {
+  font-family: "Vollkorn", serif;
+  margin-top: 8%;
+  /* margin-bottom: -2%; */
+  font-size: 1.5em;
+  font-weight: 700;
+}
+
+h4 {
+  font-family: "Vollkorn", serif;
+  font-size: 1.1em;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 0.5%;
+  margin-top: 8%;
+}
+h6 {
+  font-family: "Vollkorn", serif;
+  font-size: 0.9em;
+  font-weight: 700;
+  margin-bottom: 4%;
+  text-align: center;
+}
+
+
+/* #size-chart .c3-line-data2 {
+  stroke-width: 5px;
+} */
+
+.donut {
+  /* margin: 1%; */
+}
+
+.lower {
+  margin-top: 5%;
+}
+
+.c3-chart-arcs-title {
+  font-family: "Vollkorn", serif;
+  font-weight: 700;
+  font-size: 1.7em;
+
+}
+
+.c3-legend-item {
+  font-family: "Roboto", sans-serif;
+}
+
+.c3-axis-y-label {
+  font-family: "Roboto", sans-serif;
+  font-size: 1em;
+}
+
+
+.tick {
+  font-family: "Roboto", sans-serif;
+}
+
+.table-div {
+  /* margin: 5% 5%; */
+  margin: 0% auto 5% auto;
+  max-width: 70%;
+  font-size: 0.6em;
+  font-family: "Roboto", sans-serif;
+  overflow: scroll;
+}
+
+
+.table-title {
+text-align: center;
+margin-top: 10%;
+}
+
+.table-copy {
+  margin: 0% 33%;
+}
+
+
+
+
+@media screen and (max-width:1024px) {
+
+  .article {
+    margin: 10% 10%;
+  }
+
+  h1 {
+    font-size: 2.4em;
+  }
+
+  h3 {
+    font-size: 1.3em;
+  }
+
+  p {
+    font-family: "Vollkorn", serif;
+    font-size: 1.2em;
+    line-height: 1.6em;
+  }
+
+  h2 {
+    font-family: "Vollkorn", serif;
+    margin-top: 10%;
+    font-size: 1.4em;
+  }
+  .lower {
+    margin-top: 0%;
+  }
+
+
+  .donut {
+    margin: 3% 0;
+  }
+
+  .tick {
+    font-size: 0.8em;
+  }
+
+  .c3-axis-y-label {
+    font-size: 0.7em;
+  }
+  .table-copy {
+    margin: 2% 10%;
+  }
+  .table-div {
+    /* margin: 5% 5%; */
+    margin: 0% auto 5% auto;
+    max-width: 80%;
+  }
+
+
+}

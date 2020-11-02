@@ -1,0 +1,26 @@
+[
+        {
+            "region": "Northeast",
+            "patio": 22.69,
+            "porch": 51.54,
+            "deck": 45.19
+        },
+        {
+            "region": "Midwest",
+            "patio": 39.28,
+            "porch": 62.66,
+            "deck": 32.49
+        },
+        {
+            "region": "South",
+            "patio": 61.29,
+            "porch": 64.23,
+            "deck": 17.51
+        },
+        {
+            "region": "West",
+            "patio": 63.07,
+            "porch": 68.53,
+            "deck": 22.44
+        }
+    ]

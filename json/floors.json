@@ -1,0 +1,25 @@
+ [{
+            "title": "Northeast",
+            "1 story": 18.50,
+            "2 stories": 68.21,
+            "3 or more stories": 13.29
+        },
+        {
+            "title": "Midwest",
+            "1 story": 55.25,
+            "2 stories": 43.87,
+            "3 or more stories": 1.26
+        },
+        {
+            "title": "South",
+            "1 story": 47.15,
+            "2 stories": 48.55,
+            "3 or more stories": 4.31
+        },
+        {
+            "title": "West",
+            "1 story": 40.39,
+            "2 stories": 53.70,
+            "3 or more stories": 5.78
+        }
+    ]
